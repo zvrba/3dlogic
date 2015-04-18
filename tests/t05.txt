@@ -1,0 +1,11 @@
+1x2
+3xx
+xxx
+
+xxx
+xxx
+.3x
+
+.1x
+.2x
+xxx

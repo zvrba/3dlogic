@@ -1,0 +1,4 @@
+Solve.cmo: Puzzle.cmo 
+Solve.cmx: Puzzle.cmx 
+main.cmo: Solve.cmo Puzzle.cmo 
+main.cmx: Solve.cmx Puzzle.cmx 
